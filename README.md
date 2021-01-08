@@ -1,7 +1,7 @@
 
 
 <h1 align="center">
-First React project developed at Labenu's course - Whatslabe
+First React project developed at Labenu's course - Whatslabe - Front-end
 </h1>
 <h2>MVP - Messaging application<h2>
 <h3>Date: 17th of May 2020 </h3>
