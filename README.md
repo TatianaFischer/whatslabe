@@ -8,7 +8,7 @@ First React project developed at Labenu's course - Whatslabe - Front-end
 <h3>Pair Programming</h3>
 
 <
-# Indice
+# Index
 
 - :rocket: [About](#rocket-about)
 - 👨‍💻️ [Tools](#%EF%B8%8F-tools)
