@@ -7,11 +7,11 @@ First React project developed at Labenu's course - Whatslabe - Front-end
 <h3>Date: 17th of May 2020 </h3>
 <h3>Pair Programming</h3>
 
-<
+
 # Index
 
 - :rocket: [About](#rocket-about)
-- 👨‍💻️ [Tools](#%EF%B8%8F-tools)
+- 👨‍💻️ [Technologies](#%EF%B8%8F-tools)
 - 📦️ [How to use?](#%EF%B8%8F-how-to-use-?)
 
 
@@ -29,7 +29,7 @@ Team: [Tatiana](https://github.com/TatianaFischer) e [Henrique](https://github.c
 
 ---
 
-## 👨‍💻️ Tools
+## 👨‍💻️ Technologies
 
 
 - [ReactJS](https://reactjs.org/)
